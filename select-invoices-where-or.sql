@@ -1,1 +1,1 @@
-SELECT InvoiceId, Total FROM invoices WHERE BillingCountry = 'Paris' or BillingCountry = 'London'
+SELECT InvoiceId, Total FROM invoices WHERE BillingCity = 'Paris' or BillingCity = 'London'
