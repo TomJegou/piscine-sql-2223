@@ -1,1 +1,1 @@
-SELECT * FROM artists WHERE Name LIKE "A%";
+SELECT * FROM artists WHERE Name LIKE 'A%'
