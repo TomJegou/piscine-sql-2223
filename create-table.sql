@@ -3,4 +3,4 @@ CREATE TABLE students(
     FirstName VARCHAR(80) NOT NULL,
     LastName VARCHAR(80) NOT NULL,
     City VARCHAR(50) NOT NULL
-)
+);
