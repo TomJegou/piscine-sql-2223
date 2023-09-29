@@ -1,1 +1,1 @@
-DELETE artists WHERE ArtistId BETWEEN 1 and 22
+DELETE FROM artists WHERE ArtistId BETWEEN 1 and 22
