@@ -1,1 +1,1 @@
-SELECT * WHERE Name LIKE "A%"
+SELECT * WHERE Name LIKE "A%";
