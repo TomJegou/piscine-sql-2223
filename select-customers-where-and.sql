@@ -1,1 +1,1 @@
-SELECT FirstName, LastName FROM customers WHERE BillingCountry = 'USA' AND SupportRep = 'Peacock Jane'
+SELECT FirstName, LastName FROM customers WHERE customers.Country = 'USA' AND customers.SupportRepId = 3
