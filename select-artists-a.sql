@@ -1,0 +1,1 @@
+SELECT ArtistId, Name WHERE Name LIKE "A%"
