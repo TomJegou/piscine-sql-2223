@@ -1,0 +1,1 @@
+select Count(*) as NbCompanies from customers where Company is not null
