@@ -1,2 +1,2 @@
-SELECT FirstName || ' ' || LastName || ' lives in ' || City
-FROM employees as Employee
+SELECT FirstName || ' ' || LastName || ' lives in ' || City as Employee
+FROM employees
