@@ -1,1 +1,4 @@
-SELECT Name FROM playlists WHERE Name like 'M%' 
+SELECT DISTINCT playlists.Name
+FROM playlists
+WHERE playlists.Name LIKE 'M%'
+ORDER BY playlists.Name ASC
