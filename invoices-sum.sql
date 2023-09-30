@@ -1,0 +1,1 @@
+select sum(Total) as AllInvoicesTotalPrice from invoices where CustomerId = 19
