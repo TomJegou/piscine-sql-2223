@@ -5,3 +5,4 @@ SELECT InvoiceId, Total,
 		WHEN Total>10 THEN 'Price greater than 10$'
 	END as 'CASE'
 FROM invoices
+LIMIT 100
